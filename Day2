@@ -1,0 +1,71 @@
+ <style>
+ 
+  body{
+  background-image:url('https://www.devsnest.in/static/media/logo.f1b45387.jpg');
+  
+
+ }
+
+  p{
+ font-style: italic;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 14px; 
+  
+ 
+  }
+ h1
+{
+  color:green;
+}
+
+
+ </style>
+ 
+
+
+ <html>
+<body>
+   <h1   align="center" > <u>Devnest</u> </h1>
+  <h4>To
+   <br> the 
+ <br>  Dean sir 
+  </h4 font-size=34px;>
+ Subject=  organisation of the "WEB DEVELOPMENT " course by the devnest.
+</body>
+<br> Sir
+
+
+  
+<p style="color: chocolate; background-color:yellow"; font-size= 14px;>
+ 
+  
+ I am student of your collage  name <em>Mukul choudhary </em> . I am telling you about that devnest is organising the HTML course on the  
+<strong>Discord server</strong>  and the live stream is aslo done the Youtube . The name of the channel is the <em>DEVNEST</em>
+ I request to all the student that this course is free of cost . If any one is interseted to doing the this course ,Please connect to my 
+ 5 of may  . The last of the day of registeration is <em>4 May</em> . The class will be started form the 7 may </font>
+</p>
+ <table>
+ <th>Devnest </th>
+
+
+ <th>timing
+ </th> 
+ <tr>
+   <td>Youtube</td>
+
+   <td>    7 PM</td>
+ </tr>
+<tr> 
+  <td>devnest</td>
+
+  <td>   meeting  on the 10PM on the server </td>
+</tr>
+ </table>
+    
+ <b>Thank you</b>
+    
+ <h3>Mukul choudhary</h3>
+
+
+
+</html>
